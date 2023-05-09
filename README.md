@@ -1,8 +1,4 @@
-<div align="center" style="display: flex; flex-direction: column;">
-  <div style="display: inline-block">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zinaro&show_icons=true&theme=tokyonight" />
-  </div>
-  <div style="display: inline-block">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinaro&langs_count=8&theme=tokyonight" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zinaro&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinaro&layout=compact&theme=tokyonight" />
 </div>
